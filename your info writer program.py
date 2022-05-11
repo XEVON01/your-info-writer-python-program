@@ -1,0 +1,5 @@
+name = input ("enter your name: ")
+age = int(input ("enter your age: "))
+occupation = input("enter your occupation: ")
+country = input("enter the coutnry in which you live: ")
+print ('your name is', name,'your age is',age,'your occupation is',occupation,'and you live in',country)
